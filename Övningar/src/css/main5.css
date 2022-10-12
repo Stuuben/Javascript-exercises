@@ -1,0 +1,23 @@
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+#orange {
+  background-color: orange;
+}
+
+.black {
+  background-color: black;
+}
+
+.gray {
+  background-color: gray;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+}
