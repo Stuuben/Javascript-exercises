@@ -9,11 +9,57 @@ body.blue {
 body.red {
   background-color: lightsalmon;
 }
+body.myBody {
+  background: rgb(111, 218, 122);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+#myButton {
+  background-color: rgb(176, 51, 248);
+  color: white;
+}
+#myButton2 {
+  background-color: rgb(51, 232, 248);
+  color: white;
+}
+#myButton3 {
+  background-color: rgb(237, 58, 175);
+  color: white;
+}
+button {
+  border-radius: 4px;
+}
 
-p {
-  width: 165px;
-  height: 50px;
-  background-color: white;
-  border: 2px solid black;
-  margin-top: 1rem;
+h1 {
+  text-shadow: 1px 1px 1px white;
+}
+
+.container {
+  background: white;
+  border-radius: 3px;
+  box-shadow: 7px 16px 66px -27px rgba(0, 0, 0, 0.72);
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 400px;
+  padding: 2rem;
+  gap: 1rem;
+  min-height: 200px;
+  align-items: center;
+}
+
+// #someText {
+//   width: 165px;
+//   height: 50px;
+//   background-color: white;
+//   border: 2px solid black;
+//   margin-top: 1rem;
+// }
+
+.invisible {
+  display: none;
 }

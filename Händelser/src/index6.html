@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <script defer src="/src/js/main6.js"></script>
+    <link rel="stylesheet" href="/src/scss/main.scss" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body class="myBody">
+    <h1>Secret Number</h1>
+    <div id="secretNumber" class="container">
+      <span id="secretMessage"
+        >Set a secret number between 0-100 that someone can guess</span
+      >
+      <input type="number" id="myInput" placeholder="Enter Secret number" />
+      <button id="myButton">Set number</button>
+    </div>
+    <div id="guess" class="invisible container">
+      <span id="someText">Guess the secret number between 0-100</span>
+      <input type="number" id="myInput2" placeholder="Guess Number" />
+      <button id="myButton2">Guess</button>
+    </div>
+    <div id="completed" class="invisible container">
+      <span>Winner winner chicken dinner!</span>
+      <button id="myButton3">Play again</button>
+    </div>
+  </body>
+</html>
