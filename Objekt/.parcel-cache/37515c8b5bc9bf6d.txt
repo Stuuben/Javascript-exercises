@@ -1,0 +1,11 @@
+10
+38C:\Skola\FED22S\Javascript\Objekt\dist133107479577184722 1
+60C:\Skola\FED22S\Javascript\Objekt\dist\index.aa69868b.js.map133107479577164916 0
+37C:\Skola\FED22S\Javascript\Objekt\src133107408911943264 1
+48C:\Skola\FED22S\Javascript\Objekt\src\index.html133107462738923285 0
+40C:\Skola\FED22S\Javascript\Objekt\src\js133107409041226955 1
+49C:\Skola\FED22S\Javascript\Objekt\dist\index.html133107476946446724 0
+48C:\Skola\FED22S\Javascript\Objekt\src\js\main.js133107479684141817 0
+56C:\Skola\FED22S\Javascript\Objekt\dist\index.aa69868b.js133107479577120794 0
+57C:\Skola\FED22S\Javascript\Objekt\dist\Objekt.59712999.js133107476946490444 0
+61C:\Skola\FED22S\Javascript\Objekt\dist\Objekt.59712999.js.map133107476946540676 0
