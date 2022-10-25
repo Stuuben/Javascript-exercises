@@ -32,33 +32,56 @@ let alienFamilyObj = JSON.parse(alienFamilyString);
 console.log(alienFamilyObj)
 
  */
-
-
+/* 
 class Human {
-    constructor(firstname, age, eyeColor){
-        this.firstname = firstname;
-        this.age = age;
-        this.eyeColor = eyeColor;
-    }
-    
+  constructor(firstname, age, eyeColor) {
+    this.firstname = firstname;
+    this.age = age;
+    this.eyeColor = eyeColor;
+  }
 }
 
 let me = new Human("Adam", 34, "Blue");
 let you = new Human("Clara", 44, "Green");
-let otherYou = new Human("Johan", 34, "Blue")
+let otherYou = new Human("Johan", 34, "Blue");
 
-let people = [me, you, otherYou]
+let people = [me, you, otherYou];
 
-console.log(people)
+console.log(people);
 
-let peopleString = JSON.stringify(people)
-localStorage.setItem("Besr Humans", peopleString)
+let peopleString = JSON.stringify(people);
+localStorage.setItem("Besr Humans", peopleString);
 
-console.log(peopleString)
+console.log(peopleString);
 
-let peopleAgain = JSON.parse(peopleString)
+let peopleAgain = JSON.parse(peopleString);
 
-localStorage.getItem(peopleAgain)
-console.log(peopleAgain)
+localStorage.getItem(peopleAgain);
+console.log(peopleAgain);
 
-localStorage
+localStorage;
+ */
+
+class Human {
+  constructor(firstname, age, eyeColor) {
+    this.firstname = firstname;
+    this.age = age;
+    this.eyeColor = eyeColor;
+  }
+}
+
+let me = new Human("Adam", 34, "blue");
+let you = new Human("Clara", 23, "green");
+let meyou = new Human("Johan", 34, "blue");
+
+let group = [me, you, meyou];
+
+let groupString = JSON.stringify(group);
+
+localStorage.setItem("Ettiket", groupString);
+
+let groupObj = JSON.parse(groupString);
+
+localStorage.getItem(groupObj);
+
+console.log(groupObj);
