@@ -1,0 +1,24 @@
+23
+67C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\rep.html133108295928908264 0
+70C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\fredag.html133108250369554836 0
+58C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src133108289574210867 1
+59C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist133108283351442035 1
+69C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\index.html133108114556735871 0
+61C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\js133108289414820968 1
+70C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\index2.html133108121906106386 0
+69C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\js\main.js133108139774679914 0
+71C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\js\fredag.js133108289268862488 0
+70C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\js\main2.js133108191035382727 0
+70C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\js\main3.js133108248632216042 0
+71C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\js\mallar.js133108242792098953 0
+78C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\Objekt.59712999.js133108114556701209 0
+68C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\src\js\rep.js133108289414820968 0
+78C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\fredag.1bfcf2bc.js133108283351419289 0
+82C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\fredag.1bfcf2bc.js.map133108283351432100 0
+78C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\fredag.ffd2ff58.js133108254161329439 0
+82C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\fredag.ffd2ff58.js.map133108254161370364 0
+71C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\fredag.html133108254161616833 0
+77C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\index.aa69868b.js133108114556711177 0
+81C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\index.aa69868b.js.map133108114556721159 0
+70C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\index.html133108114556731126 0
+82C:\Skola\FED22S\Javascript\Javascript-exercises\Objekt\dist\Objekt.59712999.js.map133108114556701209 0

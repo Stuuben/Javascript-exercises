@@ -37,12 +37,19 @@ for (i=0; i < drinks.length; i++) {
 }
  */
 
-let drinks = ["Cola", "Fanta", "Öl", "Vin"];
-const test = document.createElement("section");
-test.setAttribute("id", "test");
 
+
+//  gör en array med drycker
+let drinks = ["Cola", "Fanta", "Öl", "Vin"];
+//skapa en section
+const test = document.createElement("section");
+// sätt id="test" på section
+test.setAttribute("id", "test");
+// skapa ul
 let ul = document.createElement("ul");
+// 
 document.body.appendChild(test);
+
 test.appendChild(ul);
 
 for (i = 0; i < drinks.length; i++) {
