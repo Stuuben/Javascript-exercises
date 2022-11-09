@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  background-color: #e9ecef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.toggle {
+  position: relative;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.toggle span {
+  position: absolute;
+  width: 40px;
+  height: 4px;
+  background-color: blue;
+  border-radius: 4px;
+  transition: 0.3s ease;
+}
+
+.toggle span:nth-child(1) {
+  transform: translateY(-15px);
+  transition-delay: 0.12s;
+}
+.toggle.active span:nth-child(1) {
+  transform: translateY(0px) rotate(45deg);
+}
+.toggle span:nth-child(2) {
+  transform: translateY(15px);
+}
+
+.toggle.active span:nth-child(2) {
+  transform: translateY(0px) rotate(-225deg);
+}
+.toggle.active span:nth-child(3) {
+  transform: translateX(60px);
+}

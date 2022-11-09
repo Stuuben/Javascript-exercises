@@ -21,6 +21,7 @@ let container = document.createElement("div");
 container.className = "container";
 let profile = document.createElement("div");
 profile.className = "profile";
+
 document.body.appendChild(container);
 container.appendChild(profile);
 
@@ -39,3 +40,4 @@ for (let i = 0; i < students.length; i++) {
   profile.appendChild(info);
   info.appendChild(hlength);
   info.appendChild(sSize);
+}

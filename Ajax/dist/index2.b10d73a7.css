@@ -1,0 +1,14 @@
+body {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  display: flex;
+}
+
+.movie {
+  width: 30%;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+/*# sourceMappingURL=index2.b10d73a7.css.map */
